@@ -1,0 +1,26 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "Reference API",
+        "description": "The Reference API.",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpsapi.pingdom.com\/"
+    ],
+    "paths": {
+        "\n    \/api\/{version}\/reference": {
+            "\n    GET": {
+                "summary": "Get Reference",
+                "description": "\n    Get a reference of regions, timezones and date\/time\/number formats and their identifiers.",
+                "operationId": "GetReference",
+                "deprecated": 0,
+                "parameters": []
+            }
+        }
+    },
+    "components": {
+        "schemas": []
+    }
+}
