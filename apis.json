@@ -1,0 +1,104 @@
+{
+    "name": "VerticalResponse",
+    "description": "Email Marketing by VerticalResponse makes it easy to send email newsletters, offers, invitations and autoresponders to grow your business. It's free!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/517-verticalresponse.jpg",
+    "tags": [
+        "email marketing",
+        "have api",
+        "have swagger",
+        "hypermedia api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/verticalresponse\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "VerticalResponse",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/517-verticalresponse.jpg",
+            "humanURL": "http:\/\/verticalresponse.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/verticalresponse.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/verticalresponse-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "Reference API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/517-verticalresponse.jpg",
+            "humanURL": "http:\/\/verticalresponse.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/reference-api.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/reference-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/vrapi.verticalresponse.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/developer.verticalresponse.com\/Blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developer.verticalresponse.com\/blog\/feed-entries"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/vertical-response"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/location-labs"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.verticalresponse.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/VerticalResponse"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/517-2019-09-03-19-23-37.json"
+        },
+        {
+            "type": "Partners",
+            "url": "http:\/\/www.verticalresponse.com\/partner"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.verticalresponse.com\/pricing-plans"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/vr4smallbiz"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/verticalresponse.com"
+        }
+    ]
+}
