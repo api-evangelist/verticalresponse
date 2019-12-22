@@ -1,5 +1,5 @@
 {
-    "id": "f41e9d17093c5958931dc637620278b3",
+    "id": "8449041f8917880b2a6d8de07459df87",
     "name": "Reference API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "67c8f56f42cee10d2910ef403f6f0d79",
+            "id": "2ad07f8f60a3c886de14c1eeb4a1bd26",
             "name": "Get Reference",
             "url": "httpsapi.pingdom.com\/\n    \/api\/{version}\/reference",
             "description": "\n    Get a reference of regions, timezones and date\/time\/number formats and their identifiers.",
@@ -29,7 +29,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "f41e9d17093c5958931dc637620278b3",
+            "collectionId": "8449041f8917880b2a6d8de07459df87",
             "rawModeData": ""
         }
     ]
